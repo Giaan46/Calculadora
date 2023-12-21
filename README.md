@@ -1,1 +1,1 @@
-## Calculadora hecha con java swing 
+## interfaz grafica de una calculadora basica con java swing 
